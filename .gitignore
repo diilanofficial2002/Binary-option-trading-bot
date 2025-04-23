@@ -1,0 +1,8 @@
+.venv/
+.vscode/
+.env
+__pycache__/
+indy/*
+!indy/indicator.ipynb
+test.*
+parameter.txt

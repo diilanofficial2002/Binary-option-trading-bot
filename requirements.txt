@@ -1,0 +1,6 @@
+dotenv
+pyautogui
+pandas
+numpy 
+matplotlib
+ta
